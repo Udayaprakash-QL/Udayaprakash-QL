@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Udayaprakash-QL
+- 👋 Hi, I’m @Udayaprakash
 - 👀 I’m interested in WEB Application
 - 🌱 I’m currently learning Asp.net
 - 💞️ I’m looking to collaborate on Asp.net Delopers
